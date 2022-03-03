@@ -1,8 +1,8 @@
 # Raytracer
-> A path tracing algoritm insipired by Raytracing in a weekend.
+> A path-tracing algoritm insipired by Raytracing in a weekend.
 
 ![image](https://user-images.githubusercontent.com/65235028/156541661-8cb65430-beda-475d-bc10-da08f8085a42.jpg)
-<h6> *Image rendered by the algorithm
+<h6> *Image rendered by the algorithm ( Takes ages to render a 720p image)
 <hr>
 
 ### TO-DO
