@@ -6,6 +6,7 @@
 <hr>
 
 ### TO-DO
+* Add a cmake file
 * Implement multithreading 
 * Add more objects and materials
 * Make it more interactive and customiable
